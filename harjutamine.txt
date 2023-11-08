@@ -1,2 +1,1 @@
 GitHub on failide ja koodide jagamise teenus, mis on tasuta ja võimaldab erinevate inimestega sul koostööd teha. GitHub kasutavad enamuselt programmeerijad.
-Mina saaksin edaspidi kasutada GitHubi programmeerimis õpetajadega koodi ja projektide jagamiseks. Saaksin seda kasutada veel abiks mõne asja lahendamiseks nt mingi teatud asja kodeerimiseks.
