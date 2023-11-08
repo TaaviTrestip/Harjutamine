@@ -1,3 +1,3 @@
 GitHub on failide ja koodide jagamise teenus, mis on tasuta ja võimaldab erinevate inimestega sul koostööd teha. GitHub kasutavad enamuselt programmeerijad.
 Mina saaksin edaspidi kasutada GitHubi programmeerimis õpetajadega koodi ja projektide jagamiseks. Saaksin seda kasutada veel abiks mõne asja lahendamiseks nt mingi teatud asja kodeerimiseks.
-GitHub asutati 8. veebruar aastal 2008. Asutajateks olid Tom Preston-Werner, Chris Wanstrath, Phillip Jeffrey Hyett ja Scott Chacon.
+GitHub asutati 8. veebruar aastal 2008. Asutajateks olid Tom Preston-Werner, Chris Wanstrath, Phillip Jeffrey Hyett ja Scott Chacon. Teenus oli kättesaadav alates 10. aprillist aastal 2008.
